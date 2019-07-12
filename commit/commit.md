@@ -11,8 +11,8 @@
    // Need to set two environmnet variables
    
    // In Win
-   set GIT_COMMITTER_NAME='P K Tippa'   
+   set GIT_COMMITTER_NAME='Pradeep Kumar Tippa'   
    set GIT_COMMITTER_EMAIL='pktippa@gmail.com'
    
    // Run commit command
-   git commit -m "Added container" --author "P K Tippa <pktippa@gmail.com>"
+   git commit -m "Added container" --author "Pradeep Kumar Tippa <pktippa@gmail.com>"
